@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Project Work-In</string>
+    <string name="title_activity_tab">TabActivity</string>
+    <string name="title_home">Calendar(Memo)</string>
+    <string name="title_friends">Who are Work-in members?</string>
+    <string name="title_sharefile">Share and Chat</string>
+
+
+
+
+
+</resources>

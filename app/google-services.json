@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "333663144634",
+    "firebase_url": "https://workin-c3466.firebaseio.com",
+    "project_id": "workin-c3466",
+    "storage_bucket": "workin-c3466.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:333663144634:android:595783e8072bd3fe0e5083",
+        "android_client_info": {
+          "package_name": "team.sungkyul.workin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "333663144634-8ovoeushtrmitvkllgjn74nss9jtuet8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "team.sungkyul.workin",
+            "certificate_hash": "9d10b3a120d063b90c979adf70c1bffb98c91b9d"
+          }
+        },
+        {
+          "client_id": "333663144634-dlq7td8l5v04r84q7uno6khqgl8jv5j4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpOojfmzgoKCY9J5oyvbJuL-4R7Ht1S9I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "333663144634-dlq7td8l5v04r84q7uno6khqgl8jv5j4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
